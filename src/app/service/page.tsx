@@ -18,5 +18,3 @@ export default Servicepage
 
 
 
-// rafce = arrow function create krny kye liye
-// rfc = normal function create krny kye liye
